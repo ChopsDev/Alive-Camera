@@ -1,2 +1,4 @@
 # Alive Camera
-This script allows the staic camera to look around giving the effect of the persons head moving and also having a breathing effect applied to the camera 
+This script adds a subtle "looking around" effect to a static camera, giving the impression of a person's head moving slightly. It also includes a gentle breathing effect applied to the camera for "realism" 
+
+For the script to work just add a Camera3D node to the scene, apply the script and voila it should work.
